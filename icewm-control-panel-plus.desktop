@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IceWM Control Panel Plus
+Comment=Enhanced control panel for IceWM
+Exec=/usr/local/bin/icewm-control-panel-plus
+Icon=icewm
+Terminal=false
+Type=Application
+Categories=Settings;System;
