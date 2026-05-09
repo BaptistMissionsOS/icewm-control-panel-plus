@@ -63,3 +63,5 @@ Distributed under the GPL3 License. See `LICENSE` for more information.
 ## Contact
 - Maintainer: Your Name (baptistmissionsos@gmail.com)
 - Issue Tracker: https://github.com/BaptistMissionsOS/icewm-control-panel-plus/issues
+
+**Warning:** Do **not** run this early build as your regular user. Create a dedicated `icewm` user for testing.
